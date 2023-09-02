@@ -8,13 +8,13 @@ This is a repo of application that helps with t-shirt customization. It uses Rea
 
 Make fork of this repo and clone it to your machine.
 
-Open the terminal in server folder:
+Open the terminal in __server__ (cd ./server) folder:
 
 ### `npm start`
 
 Starts the server to handle threejs model and openAI API connection.
 
-Open terminal in client folder:
+Open terminal in __client__ (cd ./client) folder:
 
 ### `npm run dev`
 
