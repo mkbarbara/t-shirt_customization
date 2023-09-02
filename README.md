@@ -12,7 +12,7 @@ Open the terminal in __server__ (cd ./server) folder:
 
 ### `npm start`
 
-Starts the server to handle threejs model and openAI API connection.
+Starts the server on port 8080 to handle threejs model and openAI API connection.
 
 Open terminal in __client__ (cd ./client) folder:
 
